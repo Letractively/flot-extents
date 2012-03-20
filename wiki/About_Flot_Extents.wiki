@@ -1,0 +1,9 @@
+#summary What is Flot Extents & what it for.
+= Introduction =
+
+Flot Extents is imple & lightweight plugin for drawing gantt-like charts on flot canvas.
+
+
+= How to =
+
+//TODO: add little howto
